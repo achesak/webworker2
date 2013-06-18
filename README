@@ -1,0 +1,5 @@
+webworker2 is a library that extends JavaScript's Worker object by defining two new objects; Worker2 and WorkerFunction.
+
+The first is merely a slight simplification. The second, WorkerFunction, allows a function to be executed in a web worker without requiring it to be in a separate file.
+
+Full documentation and explanation an be found at http://poultryandprogramming.wordpress.com/2013/02/12/webworker2-improved-javascript-worker-object/.
